@@ -1,11 +1,11 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-    apiKey: "AIzaSyD_XREHyNXYGNqMxNL4klZhZ3YmFST77yY",
-    authDomain: "project-portal-65501.firebaseapp.com",
-    databaseURL: "https://project-portal-65501.firebaseio.com",
-    projectId: "project-portal-65501",
-    storageBucket: "project-portal-65501.appspot.com",
-    messagingSenderId: "84765311803"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
